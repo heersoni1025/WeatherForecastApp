@@ -1,4 +1,4 @@
-# WeatherForecastProject
+# Weather Forecast App
 This Java program fetches and displays a 7-day weather forecast for Bloomington, Indiana, using the Open-Meteo API. It retrieves hourly temperature data, processes the response using GSON, and prints the forecast in a structured format.
 
 Features

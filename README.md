@@ -8,6 +8,11 @@ Features
 - Formats and displays data in an easy-to-read structure.
 - Implements error handling for HTTP requests.
 
+<img width="493" alt="Screenshot 2025-06-28 at 7 05 52 PM" src="https://github.com/user-attachments/assets/28711fbf-1d56-43fb-9028-045cf19536d5" />
+
+
+<img width="280" alt="Screenshot 2025-06-28 at 7 06 11 PM" src="https://github.com/user-attachments/assets/346fa56d-cddb-4d23-aa97-dc07376ccbb2" />
+
 
 Technologies Used
 - Java
